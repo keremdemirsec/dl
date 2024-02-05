@@ -44,7 +44,7 @@ Teşekkür ederiz! Projemize katkıda bulunmak istemeniz bizi mutlu eder. Lütfe
 
 Lütfen kodunuzun belirli bir stil kılavuzuna uymasına dikkat edin. Proje kurallarına ve kabul edilen kod stilini takip etmek önemlidir.
 
-## Geribildirim
+## Geri bildirim
 
 Her türlü geri bildirime açığız. Projede herhangi bir sorunla karşılaşırsanız veya geliştirmeler önerirseniz, lütfen bir [issue](https://github.com/keremdemirsec/dl/issues) açın.
 
